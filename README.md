@@ -31,7 +31,7 @@ The script will process the images and output a composite image with the green s
 ## Example
 Here's an example of what "Green-Screen" can do:
 
-![Green Screen Example]([attachment:image.png](https://github.com/yugankahuja/Green-Screen/blob/main/image.png))
+![Green Screen Example](https://github.com/yugankahuja/Green-Screen/blob/main/image.png)
 
 *Note: The example image shows the script's output with a particular foreground and background image.*
 
